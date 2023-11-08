@@ -1,7 +1,7 @@
 <?php
-$list=array(array("id"=>1,"name"=>"akhil","MFC"=>49,"ASE"=>47,"DFCA"=>48,"ADS"=>49),
-	array("id"=>2,"name"=>"albert","MFC"=>37,"ASE"=>27,"DFCA"=>28,"ADS"=>39),
-	array("id"=>3,"name"=>"frestin","MFC"=>29,"ASE"=>17,"DFCA"=>28,"ADS"=>19));
+$list=array(array("id"=>1,"name"=>"akhila","MFC"=>49,"ASE"=>47,"DFCA"=>48,"ADS"=>49),
+	array("id"=>2,"name"=>"arjith","MFC"=>37,"ASE"=>27,"DFCA"=>28,"ADS"=>39),
+	array("id"=>3,"name"=>"sharu","MFC"=>29,"ASE"=>17,"DFCA"=>28,"ADS"=>19));
 ?>
 <html>
 <head>
